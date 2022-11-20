@@ -224,3 +224,18 @@ body{
 
 }
 
+
+
+@media (max-width:1166px){
+
+    .box-profile{
+        top: 15%;
+        left: 20%;
+    }
+
+
+
+    .box-nav{
+        visibility: hidden;
+    }
+}
